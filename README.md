@@ -1,18 +1,23 @@
 # LeetCode Solutions 🧩
 
-Personal LeetCode problem solutions
-University of Moratuwa | 2026
+This repository contains my solutions for LeetCode problems.
 
-## Progress
-![Easy](https://img.shields.io/badge/Easy-2-green)
-![Medium](https://img.shields.io/badge/Medium-0-yellow)
+## Languages Used
 
-## Easy Problems
-- #1 - Two Sum - Python
-- #9 - Palindrome Number - Python
+- C
+- Python
 
-## Medium Problems
-- Coming soon...
+## Topics Practiced
 
-## Languages
-Python | C | C++
+- Basic problem solving
+- Arrays
+- Strings
+- Loops
+- Functions
+- Searching
+- Sorting basics
+- Algorithmic thinking
+
+## Purpose
+
+The purpose of this repository is to improve my problem-solving ability, coding consistency, and understanding of algorithms step by step.
