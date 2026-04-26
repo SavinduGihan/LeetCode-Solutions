@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# LeetCode Solutions 🧩
 
 Personal LeetCode problem solutions
 University of Moratuwa | 2026
